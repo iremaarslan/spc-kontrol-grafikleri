@@ -1,6 +1,6 @@
 # 📉 İstatistiksel Süreç Kontrolü (SPC) — X-bar & R Kontrol Grafikleri
 
-> **Seviye:** 🟡 Orta
+
 > **Alan:** Kalite Mühendisliği · İstatistiksel Süreç Kontrolü · Endüstri Mühendisliği
 > **Araçlar:** Python · pandas · matplotlib
 
